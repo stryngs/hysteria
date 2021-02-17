@@ -1,3 +1,6 @@
+# In those immortal words
+But wait, there's more.
+
 # My two cents
 Conclusions on the initial research as provided by
   ```
